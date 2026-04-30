@@ -2,6 +2,8 @@
 
 An AI-powered system that classifies payment failure logs, generates retry suggestions, and converts raw technical errors into plain-English business insights using **Groq LLaMA 3.3 70B** (blazing fast inference).
 
+![Sentipay Dashboard Preview](docs/dashboard-preview.png)
+
 ## Architecture
 
 ```
